@@ -8,7 +8,7 @@ The main goal was to clean the data, explore key patterns, and build a clear das
 # 🛠️ Tools & Technologies -
 1. Excel – data cleaning & quick checks
 2. SQL (MySQL) – data manipulation & analytical queries
-3. Python (Pandas + Matplotlib) – EDA & visual insights
+3. Python (Pandas + Matplotlib) – Data Cleaning, EDA & visual insights
 4. Power BI – interactive dashboard
 
 ## 🎯 Objectives -
